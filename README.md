@@ -66,13 +66,6 @@ You'll see the database setup screen. Use the master password shown in the termi
 
 **PostgreSQL Connection Info:**
 - Host: your VPS IP
----
-## License
-
-[![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](LICENSE)
-
-This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
-  
 - Port: 5432
 - User: odoo
 - Password: odoo
@@ -84,3 +77,10 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 - Make sure to open port 8069 in your VPS firewall/security group.
 
 - For advanced customization, refer to [Odoo Docker Hub](https://hub.docker.com/_/odoo).
+
+---
+## License
+
+[![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](LICENSE)
+
+This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
